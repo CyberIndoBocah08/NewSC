@@ -20,9 +20,9 @@ sleep 5
 echo ""
 toilet -f big -F gay Yadi F.
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Yadi Fernando"
+echo $white"Author : Arisaputra"
 echo $green"Kontak Me : 085706249638"
-echo $purple"Instagram : @yadi_fernando123"
+echo $purple"Instagram : @yadi"
 echo $blue"Facebook : Yadi Fernando"
 echo $yellow"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $red"SUBSCRIBE :" $white"Official Yadi Fernando"
