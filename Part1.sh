@@ -22,13 +22,13 @@ echo ""
 toilet -f big -F gay ArisaputraF.
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $white"Author : Arisaputra08"
-echo $green"Kontak Me : 085706249638"
-echo $purple"Instagram : @yadi_08123"
+echo $green"Kontak Me : 085768567403"
+echo $purple"Instagram :------
 echo $blue"Facebook : Arisaputra08"
 echo $yellow"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $red"SUBSCRIBE :" $white"Official Arisaputra08"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $yellow"Thanks For : Indonesia Security Lite"
+echo $yellow"Thanks For : Indonesia CyberIndoBocah08"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $cyan
 figlet "PART 1"
