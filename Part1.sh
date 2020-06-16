@@ -18,7 +18,7 @@ echo $green
 cat asw.txt
 sleep 5
 echo ""
-toilet -f big -F gay Yadi F.
+toilet -f big -F gay Ari S.
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $white"Author : Arisaputra"
 echo $green"Kontak Me : 085706249638"
